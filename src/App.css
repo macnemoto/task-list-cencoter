@@ -3,3 +3,10 @@
 body{
   background-color: #09090B;
 }
+
+//colores
+:root {
+  --primary: #09090B;
+  --secondary: #18181B;
+  --tertiary: #27272A;
+}
